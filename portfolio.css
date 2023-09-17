@@ -1,0 +1,40 @@
+*{
+    margin:0px;
+    padding:0px;
+
+}
+/* css styling of navbar */
+.nav-menu {
+
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    height: 80px;
+    background-color: white;
+    box-shadow: 5px 5px 15px black;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+li {
+    list-style-type: none;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.5em;
+}
+img{
+    height:50px;
+    width:50px;
+   display:flex;
+   justify-content:center;
+}
+body{
+    text-align: center;
+}
+btn{
+    display:inline;
+    margin:auto;
+}
